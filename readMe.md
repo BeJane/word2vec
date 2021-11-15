@@ -10,8 +10,7 @@
   - 294730 tokens
   - 182004942 pairs (window size: 5)
   -  词云(120 words)
-
-  ![image-20211014092814380](C:/Users/wjq/AppData/Roaming/Typora/typora-user-images/image-20211014092814380.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/a9531ef3728c436faeedf112fb7dc0fa.jpg?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5q2l5q2l5ZKP5YeJ5aSp,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 # 训练参数
 
@@ -30,16 +29,16 @@ learning rate: 0.025
 # 训练结果
 
 - loss下降曲线
-
-![train](renminribao/train.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/3e9d7ea70f1b4abf9fe648804473744e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5q2l5q2l5ZKP5YeJ5aSp,size_19,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 - 词向量保存
 
-![image-20211014093624603](C:/Users/wjq/AppData/Roaming/Typora/typora-user-images/image-20211014093624603.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9329d2a3667f44fc97aaa2515407a402.png)
 
 - 词向量可视化
 
-![image-20211014095234651](C:/Users/wjq/AppData/Roaming/Typora/typora-user-images/image-20211014095234651.png)
+![\[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-gK7xhfkI-1636855341517)(C:/Users/wjq/AppData/Roaming/Typora/typora-user-images/image-20211014095234651.png)\]](https://img-blog.csdnimg.cn/2ea7d60953664bb5befca2e73e4e30eb.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5q2l5q2l5ZKP5YeJ5aSp,size_19,color_FFFFFF,t_70,g_se,x_16)
+
 
 - 相似性测试
 
@@ -206,4 +205,5 @@ similar words:
  ('重振', 0.49992120265960693),
  ('增长点', 0.49920737743377686)]
 ```
+
 
