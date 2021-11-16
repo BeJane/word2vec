@@ -1,7 +1,7 @@
 # 数据集
 
 人民日报：2020年10月04日-2021年10月04日
-
+- 数据集链接: https://pan.baidu.com/s/1mnJedKLKZLqjH7940rz5iQ 提取码: 8phf
 - 概况
 
   - 25590 articles
